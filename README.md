@@ -1,7 +1,6 @@
 # Todo-List
-Task from [The Odin Project](https://www.theodinproject.com/courses/javascript/lessons/todo-list) for the [microverse](https://www.microverse.org/) curriculum.
 
-We worked with OOP for Javascript, and practiced the single responsability approach.
+We worked with OOP for Javascript, using single responsability approach.
 
 Click here for a [live](https://serdg0.github.io/todo-list/) version.
 
